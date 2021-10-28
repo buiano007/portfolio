@@ -13,8 +13,8 @@ export const projects = [
     description:"Build with bootstap for tourist to navigate and plan what they want to do or go when they come to Tanzania. It help them to decide and plan how much they are willing to spend for their vacation",
     image: '/images/2.png',
     tags: ['HTML', 'CSS', 'BOOTSTRAP'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/buiano007/tour-TZ',
+    visit: '#',
     id: 1,
   },
   {
